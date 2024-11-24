@@ -5,5 +5,7 @@ public class Page1 {
         System.out.println("Feyruz added this line");
         System.out.println("Feyruz added another line of code");
         System.out.println("Diana added this code");
+        System.out.println("Feyruz added this as for his user story");
+
     }
 }
